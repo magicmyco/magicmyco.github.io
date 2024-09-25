@@ -11,10 +11,10 @@ Psilocybe cubensis is the most commonly cultivated species of psychedelic mushro
 
 Other species in the Psilocybe family produce psilocybin, but they can be more complicated to grow.  That's why for beginners a Psilocybe cubesnis variety is suggested.
 
-
 ## Choosing a Psilocybe Cubensis variety
 
 If you have looked before you may be confused by the many varieties of Psilocybe Cubensis that are commonly sold.
+
 > Golden Teacher, B+, Amazonian, Hillbilly, PESA, etc.
 
 There are tons to choose from and generally, you can not go wrong.  Some may be a little more picky to grow than others, so we would recommend a common variety like B+ to start with.
@@ -24,11 +24,20 @@ There are tons to choose from and generally, you can not go wrong.  Some may be 
 Cultures come in many forms.  There are 2 categories: Live Cultures, and Spores.  Both have pros & cons.  However, for starting we recommend you find a LIVE culture to start with.
 Nowadays you can obtain Liquid Culture for sale online.  We recommend starting with a liquid culture of a common beginner strain like B+ for the highest rates of success and the lowest risk of contamination.
 
-| | Live ⭐       | Spore         |
+\| | Live ⭐       | Spore         |
 | | ------------- | ------------- |
 | Common Forms | Liquid Culture or Agar | Spore Syringe, Swab, Print |
 | Benefits & Cons | Low Risk of Contam, Fast Growth | Higher Risk of Contam, Slow Growth |
 
+<img src="/assets/images/liquid-culture-syringes.jpg" alt="liquid culture syringe" width="200"/>
+
+<img src="/assets/images/spore-print-foil.jpg" alt="spore print" width="200"/>
+
+<img src="/assets/images/spore-syringe.jpg" alt="spore syringe" width="200"/>
+
+<img src="/assets/images/enigma-agar-plate.jpg" alt="agar plate" width="200"/>
+
+![]()
 
 ## What's Next?
 
