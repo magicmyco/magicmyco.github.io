@@ -17,10 +17,18 @@ Once your jars are fully colonized, you are ready to enter the final stage of th
 - Substrate Hydrated to Field Capacity [(Learn how to make this here)](hydrating-substrate)
 - Container (Monotub or Unicorn Bag)
 
+<img src="/assets/images/coco-brick.jpg" alt="Fully colonized grain jars" width="200"/>
+<img src="/assets/images/fully-colonized-grain-jars.jpg" alt="Fully colonized grain jars" width="200"/>
+<img src="/assets/images/12qt-sterilite-container.jpeg" alt="12 quart sterilite container" width="200"/>
+
 #### Optional But Recommended
 - Trash Bag for monotub liner
 - Nitrile gloves
-- Fine mister
+- [Fine mister](https://www.amazon.com/FLAIROSOL-Continuous-Multi-Tasking-Refillable-Bottle-Black/dp/B09MPDFKC3/)
+
+<img src="/assets/images/trash-bags.jpg" alt="Trash bags" width="200"/>
+<img src="/assets/images/nitrile-gloves.jpg" alt="Nitrile gloves" width="200"/>
+<img src="/assets/images/flarisol-mister.jpg" alt="Flarisol fine mister" width="200"/>
 
 ## Monotub instructions
 My preferred method of cultivation is using an unmodified 12qt sterilite monotub.  These instructions will apply to this method, but the general process can be repeated and scaled regardless of the container.
