@@ -82,4 +82,4 @@ The time to colonize varies from variety to variety, but generally, you can foll
 
 # What Next?
 
-Now that your grain is inoculated and fully colonized, you can move on to the next stage, spawning to bulk.
+Now that your grain is inoculated and fully colonized, you can move on to the next stage, [spawning to bulk](spawn-to-bulk).
