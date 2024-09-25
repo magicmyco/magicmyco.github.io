@@ -27,9 +27,19 @@ url: https://magicmyco.github.io  # the base hostname and protocol for your site
 github_username: 0x4rch
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/0x4rch" }
+    - { platform: instagram, user_url: "https://www.instagram.com/headiehashhole/" }
+
+header_pages:
+  - mushroom_grow_guide/intro.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
