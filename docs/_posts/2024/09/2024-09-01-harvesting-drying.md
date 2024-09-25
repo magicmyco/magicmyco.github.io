@@ -38,4 +38,4 @@ Once fruits are dried entirely they should be stored in an airtight container, w
 <img src="/assets/images/packaging.png" alt="Packaging" width="300"/>
 
 ### What next?
-Now that you have harvested your first flush, you can rehydrate your substrate to continue pulling multiple (3+) flushes!!
+Now that you have harvested your first flush, you can [rehydrate your substrate](rehydrating-tubs) to continue pulling multiple (3+) flushes!!
