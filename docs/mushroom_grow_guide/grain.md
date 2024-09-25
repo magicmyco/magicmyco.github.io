@@ -67,6 +67,28 @@ If following me, start out with 4 lbs of raw popcorn.  They sell 2lb bags at Wal
 
 <img src="/assets/images/gv-popcorn.jpeg" alt="great value popcorn" width="200"/> 
 
+### Hydrating the grain
+
+Once you have chosen your grain, you need to hydrate it.  Mushrooms are mostly made up of water, and mycelium needs it to grow. So, if you just try inoculating the dry grain the mushrooms will have no moisture to feed off of.  To fix these, we hydrate the inside of the grain with water.  There are different methods of doing this, but if using popcorn as I recommended you want to do a forced hydration.  If using another grain, look into specific hydration instructions for that grain or also check out the [No Soak No Simmer](https://www.youtube.com/watch?v=MuRUYt25j-A) method.
+
+
+
+For forced hydration of popcorn, you want to 
+
+1. Add the 4lbs of raw popcorn into your pressure cooker.
+
+2. Cover that with 3 inches of water. 
+
+3. Pressure cook @ 15 PSI for 30 mins
+
+[Philly Golden Teacher has a great video](https://www.youtube.com/watch?v=3KrE7rmNoY4) to walk you through this process.  Note that he uses corn syrup & vermiculite for drippy corn which speeds up colonization but you can skip those additions if you desire and just hydrate the corn.
+
+### Drying the grain
+
+
+
+### Sterilizing the grian
+
 ## What's Next?
 
 Now that you have your grain ready, we can move on to inoculation!
