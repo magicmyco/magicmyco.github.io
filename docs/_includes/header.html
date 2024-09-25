@@ -9,18 +9,24 @@
 		</a>
 
 <style>
-.brand-logo {
-  height: 1rem;
 
+.brand-logo {
+    height: auto; /* Ensure it scales properly */
+    max-width: 100%; /* Prevent overflow */
 }
 
-    @media (max-width: 768px) {
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
     .brand-logo {
-        height: 1rem; /* Adjust height as needed for mobile devices */
-        max-width: 100%; /* Ensure logo scales down for smaller screens */
-        display: block; /* Ensure proper block display on mobile */
+        height: 2rem; /* Adjust height for mobile */
+        display: block; /* Ensure proper display */
     }
 }
+
 </style>
 
     {%- if titles_size > 0 -%}
