@@ -28,8 +28,7 @@ You have 2 main options when choosing premade grain.
 
 1. Uncle Bens rice (Microwaveable Rice)
    This is by far the cheapest and most common option.  There is even a whole community around this method!  Here are some great resources:
-   [https://www.reddit.com/r/unclebens/\
-   <br/>](<>)<img src="/assets/images/uncle-bens-brown-rice.jpeg" alt="drawing" width="200"/>
+   [https://www.reddit.com/r/unclebens/](<>)<img src="/assets/images/uncle-bens-brown-rice.jpeg" alt="drawing" width="200"/>
 2. Premade grain bags
    You can find premade grain bags ready for mushroom cultivation.  These have already been prepped and sterilized for you and are ready to go.  Common examples of grain bags include popcorn, oats, rye, and milo.  I will give a shotout to my local grow shop ColoradoCultures and their 3lb popcorn grain bags [here](https://www.coloradoculturesllc.com/product-page/3lb-organic-sterilized-human-grade-popcorn-grain-spawn).
 
@@ -45,10 +44,9 @@ You will need the following supplies.  While it may seem like a lot at first, th
 
 1. Pressure Cooker:
 
-   This will be used for sterilizing and potentially hydrating your grain.  This tool can also come in handy down the line for things like Agar and Liquid Culture.
-   I recommend a 16 or 23qt Presto pressure cooker.  The larger of the two may be helpful in the future, but a 16qt is plenty big for starting out.\
-</br><img src="/assets/images/presto-pressure-cooker-23qt.jpeg" alt="Presto 23 Qt Pressure Cooker" width="200"/>
-
+      This will be used for sterilizing and potentially hydrating your grain.  This tool can also come in handy down the line for things like Agar and Liquid Culture.
+      I recommend a 16 or 23qt Presto pressure cooker.  The larger of the two may be helpful in the future, but a 16qt is plenty big for starting out.\
+   <img src="/assets/images/presto-pressure-cooker-23qt.jpeg" alt="Presto 23 Qt Pressure Cooker" width="200"/>
 2. Mason Jars or Unicorn Bags:
 
 These will be used for holding your grain during the sterilization & inoculation process.  I recommend going with Wide Mouth 1 Quart Mason Jars.  You can also use Unicorn Bags, but those require a bag sealer and take longer to sterilize.
