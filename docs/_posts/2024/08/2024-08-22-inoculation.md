@@ -1,6 +1,6 @@
 ---
-title: Innoculation 💉
-permalink: /mushroom_grow_guide/innoculation
+title: Inoculation 💉
+permalink: /mushroom_grow_guide/inoculation
 date: 2024-08-22
 categories:
   - mushroom-grow-guide
@@ -18,7 +18,7 @@ There are two main ways to achieve this:
 
 Using a Laminar flow hood is ideal, but they can be very expensive.  A still air box on the other hand is much cheaper and can be bought or built out of a large sterilite tub.  I have done both and personally recommend buying a still air box rather than building as they offer better visibility and are easier to work with.  However, if you are on a tight budget building your own will work fine.
 
-![Laminar Flow Hood](/docs/assets/images/laminar-flow-hood.jpg "Laminar Flow Hood")
+<img src="/assets/images/laminar-flow-hood.jpg" alt="Laminar Flow Hood" width="200"/>
 
 ### Still Air Box
 
@@ -27,16 +27,14 @@ Here are some great resources for building still air boxes
 * [90second mycology unmodified still air box guide](https://www.reddit.com/r/unclebens/comments/n0ak24/90_second_mycologys_easy_unmodified_still_air_box/)
 * [DIY Still Air Box tutorial](https://www.youtube.com/watch?v=svUq2OeQNC)[](https://www.youtube.com/watch?v=svUq2OeQNC)
 
-![DIY Still Air Box](/docs/assets/images/diy-still-air-box.jpeg "DIY Still Air Box")
+<img src="/assets/images/diy-still-air-box.jpeg" alt="DIY Still Air Box" width="200"/>
 
 And here are some options for purchasing still air boxes
 
 * [Bella Bora High Quality SAB ⭐️](https://www.amazon.com/Bella-Bora-Mycology-Sturdy-Mycologists/dp/B0C54BQN1R)
 * [Budget Still Air Box](https://www.amazon.com/ZZM-Mycology-Mushroom-Supplies-Scientists/dp/B0D1QN137V)
 
-  ![Bella Bora Still Air Box](/docs/assets/images/bella-bora-still-air-box.jpg "Bella Bora Still Air Box")
-
-  [](https://www.amazon.com/ZZM-Mycology-Mushroom-Supplies-Scientists/dp/B0D1QN137V)[](https://www.amazon.com/ZZM-Mycology-Mushroom-Supplies-Scientists/dp/B0D1QN137V)
+<img src="/assets/images/bella-bora-still-air-box.jpg" alt="Bella Bora Still Air Box" width="200"/>
 
 # Inoculating your grain in a still air box
 
@@ -70,20 +68,26 @@ The time to colonize varies for variety to variety, but generally you can follow
 
 
 • Agar -> Grain
+
 Growth: 1-3 days, + Colonization 20-25 days
 
 • Spores -> Grain
+
 Growth 3-14 days, + Colonization 20-25 days
 
 • Liquid Culture -> Grain
+
 Growth 1-3 days, + Colonization 10-15 days
 
 • Grain -> Grain
+
 Growth: 1-2 days, + Colonization 5-10 days
 
-![Fully colonized grain jars](/docs/assets/images/fully-colonized-grain-jars.jpg "Fully colonized grain jars")
+<img src="/assets/images/fully-colonized-grain-jars.jpg" alt="Fully colonized grain jars" width="200"/>
+> Fully Colonized grain jars
 
-![Fully colonized grain bag](/docs/assets/images/fully-colonized-grain-bag.jpg "Fully colonized grain bag")
+<img src="/assets/images/fully-colonized-grain-bag.jpg" alt="Fully colonized grain bag" width="200"/>
+> Fully Colonized grain bag
 
 # What Next?
 
