@@ -32,7 +32,7 @@ You have 2 main options when choosing premade grain.
 2. Premade grain bags
    You can find premade grain bags ready for mushroom cultivation.  These have already been prepped and sterilized for you and are ready to go.  Common examples of grain bags include popcorn, oats, rye, and milo.  I will give a shotout to my local grow shop ColoradoCultures and their 3lb popcorn grain bags [here](https://www.coloradoculturesllc.com/product-page/3lb-organic-sterilized-human-grade-popcorn-grain-spawn).
 
-<img src="/assets/images/cocultures-popcorn-bag.png" alt="drawing" width="200"/>
+<img src="/assets/images/cocultures-popcorn-bag.png" alt="pre made popcorn grain bag from ColoradoCultures" width="200"/>
 
 ## Homemade Grain 🌟
 

@@ -39,7 +39,8 @@ minima:
     - { platform: instagram, user_url: "https://www.instagram.com/headiehashhole/" }
 
 header_pages:
-  - mushroom_grow_guide/intro.md
+  #- mushroom_grow_guide/intro.md
+  -
 
 collections:
   mushroom_grow_guide:
