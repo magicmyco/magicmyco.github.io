@@ -13,6 +13,14 @@
   height: 1rem;
 
 }
+
+    @media (max-width: 768px) {
+    .brand-logo {
+        height: 1rem; /* Adjust height as needed for mobile devices */
+        max-width: 100%; /* Ensure logo scales down for smaller screens */
+        display: block; /* Ensure proper block display on mobile */
+    }
+}
 </style>
 
     {%- if titles_size > 0 -%}
