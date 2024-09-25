@@ -96,6 +96,10 @@ Now that the grain is properly hydrated and dried, it is time to load the jars a
 1. Load approx 8 mason jars 3/4 of the way full with the grain.
 2. Put on the lid to the jar.  If using unmodified lids [place them upside-down](https://youtu.be/UgCW-ZPkxIU?si=oNQc7IpnapwzmJS7&t=245) to allow air exchange and cover with tinfoil.\
    <img src="/assets/images/unmodified-lid-tek.png" alt="great value popcorn" width="200"/> 
+3. Add 3.5 quarts of water to pressure cooker
+4. Pressure cook at 15 PSI for 90 minutes.  If using Unicorn bags instead of jars cook for 120 minutes.
+
+I highly recommend watching [PGT's Drippy Corn video](https://www.youtube.com/watch?v=3KrE7rmNoY4) if you have never done this before.  He shows every step of this process in a short video.
 
 ## What's Next?
 
