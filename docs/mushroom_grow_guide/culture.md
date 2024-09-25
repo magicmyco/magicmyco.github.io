@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Selecting A Culture 🧬"
+filename: 'culture'
 categories: mushroom-grow-guide
 ---
 You will need to select a culture to cultivate.
