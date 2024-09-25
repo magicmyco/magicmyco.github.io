@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grow Mushroms Easy"
+title:  "Grow Mushrooms Easy"
 filename: 'intro'
 categories: mushroom-grow-guide
 ---
