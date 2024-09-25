@@ -59,6 +59,14 @@ To start, I recommend keeping things simple and using the lids that come with th
 
 <img src="/assets/images/modified-jar-lid.png" alt="modified jar lid" width="200"/>
 
+### Choosing a grain
+
+Now that you have your jars & pressure cooker, you need to choose a grain to work with. There are many choices available and all work great. Rye, milo, wild bird seed, brown rice, and popcorn are all common varieties and will all work relatively the same.  However, in this guide, we are going for simplicity and beginner-friendly, so I recommend working with something that is food grade as they are usually cleaner out of the box.  I prefer popcorn, but brown rice (commonly referred to as [Broke Boi Tek](https://www.reddit.com/r/shrooms/comments/8e7g6n/how_to_grow_bulk_without_a_pc_or_brf_cakes_broke/)) is another great alternative.
+
+If following me, start out with 4 lbs of raw popcorn.  They sell 2lb bags at Walmart like below.
+
+<img src="/assets/images/gv-popcorn.jpeg" alt="great value popcorn" width="200"/> 
+
 ## What's Next?
 
 Now that you have your grain ready, we can move on to inoculation!
