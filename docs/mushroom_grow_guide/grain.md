@@ -48,6 +48,7 @@ You will need the following supplies.  While it may seem like a lot at first, th
 1. Pressure Cooker:
    This will be used for sterilzing and potentially hydrating your grain.  This tool can also come in handy down the line for things like Agar and Liquid Culture.
    I reccommend a 16 or 23qt Presto pressure cooker.  The larger of the two may be helpful in the future, but a 16qt is plenty big for starting out.
+
 <img src="/assets/images/presto-pressure-cooker-23qt.jpeg" alt="Presto 23 Qt Pressure Cooker" width="200"/>
 
 2. Mason Jars or Unicorn Bags
