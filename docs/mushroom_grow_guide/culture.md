@@ -9,7 +9,7 @@ You will need to select a culture to cultivate.
 If you are looking to cultivate *magic* mushrooms, aka Psilocybin-containing mushrooms you should start out with Psilocybe cubensis.
 Psilocybe cubensis is the most commonly cultivated species of psychedelic mushrooms.
 
-Other species in the Psilocybe family produce psilocybin, but they can be more complicated to grow.  That's why for beginners a Psilocybe cubesnis variety is suggested.
+Other species in the Psilocybe family produce psilocybin, but they can be more complicated to grow.  That's why for beginners a Psilocybe cubensis variety is suggested.
 
 ## Choosing a Psilocybe Cubensis variety
 
