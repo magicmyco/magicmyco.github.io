@@ -73,4 +73,4 @@ It can take between 1-3 weeks for your substrate to fully colonize and begin pin
 <img src="/assets/images/3-colonized-tubs.png" alt="3 Colonized tubs" width="600"/>
 
 ## What next?
-Harvesting & Drying
+[Harvesting & Drying](harvesting-drying)
