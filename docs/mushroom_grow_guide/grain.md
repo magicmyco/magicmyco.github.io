@@ -11,11 +11,11 @@ To cultivate mushrooms, you need to select a grain to innoculate.  For a beginne
 
 Both have their advantages and disadvantages which I will go through now.
 
-> TLDR: If you want the cheapest in the short term and are only looking to grow a small amount or for a short time, go with option 1 of premade grain.  If you want the cheapest in the long run, and want to grow a lot of mushrooms or for longer than once or twice, go the 2nd route and make your own.
+> TLDR: If you want the cheapest in the short term and are only looking to grow a small amount or for a short time, go with option 1 of premade grain.  If you want the cheapest in the long run and want to grow a lot of mushrooms or for longer than once or twice, go the 2nd route and make your own.
 
 ## Premade Grain
 
-Let me start off by saying premade grain is awesome for beginners!  If you aren't sure you are going to enjoy this hobby, or just want to grow a limited amount or for a limited time it may not be worth it for you to invest in a setup for making your own grain.  That's totally fine :)  But, you should be aware of both the pros & cons before committing.
+Let me start by saying that premade grain is awesome for beginners!  If you aren't sure you are going to enjoy this hobby, or just want to grow a limited amount or for a limited time it may not be worth it for you to invest in a setup for making your own grain.  That's totally fine :)  But, you should be aware of both the pros & cons before committing.
 
 | Pros ✅                      | Cons ❌                       |
 | --------------------------- | ---------------------------- |
@@ -39,20 +39,37 @@ You have 2 main options when choosing premade grain.
 
 ## Homemade Grain 🌟
 
-Making your own grain may seem intimidating at first, but it is very straightforward and I find the process to be very enjoyable and therepudic.
+Making your own grain may seem intimidating at first, but it is very straightforward and I find the process to be very enjoyable and therapeutic.
 
 You will need the following supplies.  While it may seem like a lot at first, these tools will be vital for many things in mycology and will last you a long time
 
 ### Supplies
 
-1. Pressure Cooker:
-   This will be used for sterilzing and potentially hydrating your grain.  This tool can also come in handy down the line for things like Agar and Liquid Culture.
-   I reccommend a 16 or 23qt Presto pressure cooker.  The larger of the two may be helpful in the future, but a 16qt is plenty big for starting out.
+Pressure Cooker:
+
+   This will be used for sterilizing and potentially hydrating your grain.  This tool can also come in handy down the line for things like Agar and Liquid Culture.
+   I recommend a 16 or 23qt Presto pressure cooker.  The larger of the two may be helpful in the future, but a 16qt is plenty big for starting out.
 
 <img src="/assets/images/presto-pressure-cooker-23qt.jpeg" alt="Presto 23 Qt Pressure Cooker" width="200"/>
 
-2. Mason Jars or Unicorn Bags
+Mason Jars or Unicorn Bags:
 
-## Whats Next?
+These will be used for holding your grain during the sterilization & inoculation process.  I recommend going with Wide Mouth 1 Quart Mason Jars.  
 
-Now that you have your grain ready, we can move onto innoculation!
+<img src="/assets/images/wide-mouth-jars.jpeg" alt="Wide Mouth Quart Mason Jars" width="200"/>
+
+You can also use Unicorn Bags, but those require a bag sealer and take longer to sterilize.  
+
+<img src="/assets/images/unicorn-bags.jpg" alt="unicorn bags" width="200"/>
+
+Mason Jar Lids:
+
+To start, I recommend keeping things simple and using the lids that come with the mason jars. No need for any modifications.  In the future, or if you would like to now you can buy or create your own modified lids.
+
+<img src="modified-jar-lid.png" alt="modified jar lid" width="200"/>
+
+## What's Next?
+
+Now that you have your grain ready, we can move on to inoculation
+
+!
