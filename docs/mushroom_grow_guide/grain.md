@@ -66,7 +66,7 @@ Mason Jar Lids:
 
 To start, I recommend keeping things simple and using the lids that come with the mason jars. No need for any modifications.  In the future, or if you would like to now you can buy or create your own modified lids.
 
-<img src="modified-jar-lid.png" alt="modified jar lid" width="200"/>
+<img src="/assets/images/modified-jar-lid.png" alt="modified jar lid" width="200"/>
 
 ## What's Next?
 
