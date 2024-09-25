@@ -51,9 +51,7 @@ You will need the following supplies.  While it may seem like a lot at first, th
 
 These will be used for holding your grain during the sterilization & inoculation process.  I recommend going with Wide Mouth 1 Quart Mason Jars.  You can also use Unicorn Bags, but those require a bag sealer and take longer to sterilize.
 
-<img src="/assets/images/wide-mouth-jars.jpeg" alt="Wide Mouth Quart Mason Jars" width="200"/>  
-
-<img src="/assets/images/unicorn-bags.jpg" alt="unicorn bags" width="200"/>
+<img src="/assets/images/wide-mouth-jars.jpeg" alt="Wide Mouth Quart Mason Jars" width="200"/>  <img src="/assets/images/unicorn-bags.jpg" alt="unicorn bags" width="200"/>
 
 Mason Jar Lids:
 
