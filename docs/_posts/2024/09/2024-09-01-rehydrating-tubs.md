@@ -1,11 +1,11 @@
 ---
-title: "Rehydrating Tubs 🌊"
+title: Rehydrating Tubs 🌊
 permalink: /mushroom_grow_guide/rehydrating-tubs
 date: 2024-09-01
 categories:
   - mushroom-grow-guide
-keywords:
-description: "Learn how to rehydrate your tubs for multiple flushes"
+keywords: null
+description: Learn how to rehydrate your tubs for multiple flushes
 layout: post
 ---
 
@@ -13,7 +13,7 @@ After you have harvested your first flush, you can rehydrate your substrate to p
 > Note: Image credit to [PhillyGoldenTeacher](https://www.youtube.com/watch?v=DadBbL8QuBM)
 
 ### Step 1: Filling your tub with water
-You will want to fill your tub with water, and then use something on top of it to hold the substrate under water to allow it to soak up the water.  You can use another tub with a weight inside to hold the susbtrate underwater.  If you have a liner attached, you may want to pull it back slightly to allow the water to penetrate better.
+You will want to fill your tub with water, and then use something on top of it to hold the substrate under water to allow it to soak up the water.  You can use another tub with a weight inside to hold the substrate underwater.  If you have a liner attached, you may want to pull it back slightly to allow the water to penetrate better.
 
 <img src="/assets/images/hydrating-tub.png" alt="Hydrating tub" width="300"/>
 
