@@ -66,22 +66,13 @@ Store your grain spawn in a relatively dark environment (light wont hurt but can
 
 The time to colonize varies for variety to variety, but generally you can follow the guidelines below:
 
+| Method                      | Growth                       | Colonization                 |
+| --------------------------- | ---------------------------- | ---------------------------- |
+| Liquid Culture -> Grain ✅  | 1-3 days                     | 10-15 Days                   |
+| Agar -> Grain ✅            | 1-3 days                     | 20-25 Days                   |
+| Grain -> Grain ⭐️           | 1-2 days                     | 5-10 Days                    |
+| Spores -> Grain ❌          | 3-14 days                    | 20-25 Days                   |
 
-• Agar -> Grain
-
-Growth: 1-3 days, + Colonization 20-25 days
-
-• Spores -> Grain
-
-Growth 3-14 days, + Colonization 20-25 days
-
-• Liquid Culture -> Grain
-
-Growth 1-3 days, + Colonization 10-15 days
-
-• Grain -> Grain
-
-Growth: 1-2 days, + Colonization 5-10 days
 
 <img src="/assets/images/fully-colonized-grain-jars.jpg" alt="Fully colonized grain jars" width="200"/>
 > Fully Colonized grain jars
