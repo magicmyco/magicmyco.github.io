@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Selecting A Grain 🌽"
+filename: 'grain'
 categories: mushroom-grow-guide
 ---
 To cultivate mushrooms, you need to select a grain to innoculate.  For a beginner, you have 2 main paths to go down.
