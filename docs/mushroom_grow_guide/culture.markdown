@@ -31,4 +31,4 @@ Nowadays you are able to obtain Liquid Culture for sale online.  We reccomend st
 
 ## Whats Next?
 
-Ok, so you obtained your liquid culture syringe, now what?  It's time to move onto the next stage of the mushroom grow cycle which requires some grain
+Ok, so you obtained your liquid culture syringe, now what?  It's time to move onto the next stage of the mushroom grow cycle which requires some [grain](grain)
