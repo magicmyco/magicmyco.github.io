@@ -8,7 +8,7 @@ keywords: null
 description: Learn how to innoculate mushrooms
 layout: post
 ---
-Now we inoculate our sterilized grain with our live culture.  To do this you will need to operate in a sterile environment to avoid infecting your grain with any contaminates.
+Now we inoculate our sterilized grain with our live culture.  To do this you will need to operate in a sterile environment to avoid infecting your grain with any contaminants.
 There are two main ways to achieve this:
 
 ### Supplies
@@ -16,7 +16,7 @@ There are two main ways to achieve this:
 * Laminar Flow Hood
 * Still Air Box
 
-Using a Laminar flow hood is ideal, but they can be very expensive.  A still air box on the other hand is much cheaper and can be bought or built out of a large sterilite tub.  I have done both and personally recommend buying a still air box rather than building as they offer better visibility and are easier to work with.  However, if you are on a tight budget building your own will work fine.
+A Laminar flow hood is ideal, but it can be very expensive.  A still air box on the other hand is much cheaper and can be bought or built out of a large Sterilite tub.  I have done both and recommend buying a still air box rather than building one as they offer better visibility and are easier to work with.  However, if you are on a tight budget building your own will work fine.
 
 <img src="/assets/images/laminar-flow-hood.jpg" alt="Laminar Flow Hood" width="200"/>
 
@@ -31,7 +31,7 @@ Here are some great resources for building still air boxes
 
 And here are some options for purchasing still air boxes
 
-* [Bella Bora High Quality SAB ⭐️](https://www.amazon.com/Bella-Bora-Mycology-Sturdy-Mycologists/dp/B0C54BQN1R)
+* [Bella Bora High-Quality SAB ⭐️](https://www.amazon.com/Bella-Bora-Mycology-Sturdy-Mycologists/dp/B0C54BQN1R)
 * [Budget Still Air Box](https://www.amazon.com/ZZM-Mycology-Mushroom-Supplies-Scientists/dp/B0D1QN137V)
 
 <img src="/assets/images/bella-bora-still-air-box.jpg" alt="Bella Bora Still Air Box" width="200"/>
@@ -51,20 +51,20 @@ Now that you have your SAB (Still Air Box) you can prepare it for inoculating yo
 With a hopefully sterile and rested SAB, you are ready to move on to inoculating your grain.  You will want to move slowly and with precision to avoid wasted movements and spreading around potential contaminants.
 
 1. Flame sterilize your LC syringe **OUTSIDE OF YOUR SAB**.  Do not do it inside or you could ignite your SAB from the ISO fumes.  Seriously!!
-2. Inject the LQ into your grain spawn.  This can be done through your injection port if using a modified lid or a bag with an injection port.  Otherwise, carefully remove your lid partially, squirt a little LC in (Around 2.5 cc/ml for a quart sized mason jar) and put the lid back on.
+2. Inject the LQ into your grain spawn.  This can be done through your injection port if using a modified lid or a bag with an injection port.  Otherwise, carefully remove your lid partially, squirt a little LC in (Around 2.5 cc/ml for a quart-sized mason jar), and put the lid back on.
 3. Repeat all steps for each jar.
 
 ### Step 3: Label & Clean up
 
-You can now take everything out of your SAB now that all spawn is sealed back up.  You will want to label your jars with a small piece of tape containing the culture name and the date of the inoculation.  This helps you keep track of your jars to know which species you used and track the health of them along their colonization cycle.
+You can take everything out of your SAB now that all spawn is sealed back up.  You will want to label your jars with a small piece of tape containing the culture name and the date of the inoculation.  This helps you keep track of your jars to know which species you used and track their health along their colonization cycle.
 
 ### Step 4: Storage
 
-Store your grain spawn in a relatively dark environment (light wont hurt but can slow down the speed) and wait for it to fully colonize.  You can shake the jars around 30% colonization to help speed up the process if desired.  [Here](https://www.youtube.com/watch?v=nmB_CAnUlgw) is a video for reference.
+Store your grain spawn in a relatively dark environment (light won't hurt but can slow down the speed) and wait for it to fully colonize.  You can shake the jars around 30% colonization to help speed up the process if desired.  [Here](https://www.youtube.com/watch?v=nmB_CAnUlgw) is a video for reference.
 
 ## How long for my grain to colonize?
 
-The time to colonize varies for variety to variety, but generally you can follow the guidelines below:
+The time to colonize varies from variety to variety, but generally, you can follow the guidelines below:
 
 | Method                      | Growth                       | Colonization                 |
 | --------------------------- | ---------------------------- | ---------------------------- |
