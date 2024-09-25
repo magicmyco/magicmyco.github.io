@@ -1,0 +1,160 @@
+<div class="hydration-calculator-container">
+  <h2 class='hydration-calculator-header'>Hydration Calculator</h2>
+  <form id="brickForm" onsubmit="return calculate();">
+    <label for="formula">Select Formula:</label>
+    <select id="formula" name="formula">
+      <option value="cocoCoirOnly">Coco Coir Only</option>
+      <option value="cvg">CVG (Coconut Coir, Vermiculite, Gypsum)</option>
+    </select>
+
+    <label for="weight">Weight of dry brick (g):</label>
+    <input type="text" id="weight" name="weight" required>
+
+    <button type="button" onclick="calculate()">Calculate</button>
+  </form>
+
+  <div class="result" id="result"></div>
+</div>
+
+<div class="result" id="result"></div>
+<script>
+  function calculate() {
+    // Prevent the default form submission
+    event.preventDefault();
+    // Get the selected formula
+    const formula = document.getElementById('formula').value;
+    const weightInput = document.getElementById('weight').value;
+
+    // Check if the input is a valid number
+    const weight = parseFloat(weightInput);
+    if (isNaN(weight) || weight <= 0) {
+      document.getElementById('result').innerText = 'Please enter a valid weight.';
+      return;
+    }
+
+    let resultText = '';
+
+    if (formula === 'cocoCoirOnly') {
+      // Calculate for Coco Coir Only
+      const waterAmountMl = weight * 5;
+      const mlToQuartsConversionFactor = 946.353;
+      const waterAmountQuarts = waterAmountMl / mlToQuartsConversionFactor;
+
+      resultText = `Amount of water required: ${waterAmountMl.toFixed(2)} ml (${waterAmountQuarts.toFixed(2)} quarts)`;
+    } else if (formula === 'cvg') {
+      // Calculate for CVG
+      const vermiculite = weight * 0.00307692307692307677184; // 3.08 litres per 1000 grams
+      const gypsum = weight * 0.3692307692307692; // 369.231 ml per 1000 grams
+      const water = weight * 0.00653846153846153805824; // 0.64 litres per 1000 grams
+
+      resultText = `Vermiculite: ${vermiculite.toFixed(2)} Litres\n` +
+                   `Gypsum: ${gypsum.toFixed(2)} ml (approx. ${Math.round(gypsum / 240)} cups)\n` +
+                   `Water: ${water.toFixed(2)} Litres`;
+    }
+
+    // Display the result
+    document.getElementById('result').innerText = resultText;
+  }
+</script>
+
+<style>
+/* Ensure that the form container is centered and responsive */
+.hydration-calculator-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #333; /* Dark background for dark themes */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Slightly darker shadow */
+  color: #f9f9f9; /* Light text color for contrast */
+}
+
+/* Style the form elements */
+.hydration-calculator-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.hydration-calculator-header {
+  margin-top: 0px!important;
+}
+
+.hydration-calculator-container label {
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #f9f9f9; /* Light color for text */
+}
+
+.hydration-calculator-container input[type="text"] {
+  padding: 10px;
+  border: 1px solid #555; /* Darker border for dark themes */
+  border-radius: 4px;
+  margin-bottom: 12px;
+  font-size: 16px;
+  background: #222; /* Dark background for input fields */
+  color: #f9f9f9; /* Light text color in input fields */
+}
+
+.hydration-calculator-container button {
+  padding: 12px 20px;
+  background-color: #007bff; /* Adjust color as needed */
+  color: #f9f9f9; /* Light text color for contrast */
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.hydration-calculator-container button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}
+
+.hydration-calculator-container .result {
+  margin-top: 15px;
+  font-size: 18px;
+  color: #f9f9f9; /* Light color for the result text */
+  white-space: pre-line; /* Ensures text formatting is preserved */
+}
+/* Style the dropdown menu */
+.hydration-calculator-container select {
+  padding: 10px;
+  border: 1px solid #555;
+  border-radius: 4px;
+  background: #222;
+  color: #f9f9f9;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+/* Maintain existing form styles */
+.hydration-calculator-container input[type="text"] {
+  padding: 10px;
+  border: 1px solid #555;
+  border-radius: 4px;
+  background: #222;
+  color: #f9f9f9;
+}
+
+.hydration-calculator-container button {
+  padding: 12px 20px;
+  background-color: #007bff;
+  color: #f9f9f9;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.hydration-calculator-container button:hover {
+  background-color: #0056b3;
+}
+
+.hydration-calculator-container .result {
+  margin-top: 15px;
+  font-size: 18px;
+  color: #f9f9f9;
+  white-space: pre-line;
+}
+</style>

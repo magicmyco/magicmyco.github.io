@@ -21,7 +21,9 @@ You want to hydrate your substrate to field capacity to ensure it is properly hy
 
 **Forumla**: Weight of dry brick (g) X 5 = xml water
 
-> Ex 650g X 5 = 3250ml water or 3.434237 quarts
+> Ex 650g X 5 = 3250ml water or 3.43 quarts
+
+{% include hydration-calculator.html %}
 
 ### Instructions
 If you would prefer a video walkthrough, there is a great one from PhillyGoldenTeacher [here](https://www.youtube.com/watch?v=wzMRjEDMdfs).
