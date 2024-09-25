@@ -71,23 +71,31 @@ If following me, start out with 4 lbs of raw popcorn.  They sell 2lb bags at Wal
 
 Once you have chosen your grain, you need to hydrate it.  Mushrooms are mostly made up of water, and mycelium needs it to grow. So, if you just try inoculating the dry grain the mushrooms will have no moisture to feed off of.  To fix these, we hydrate the inside of the grain with water.  There are different methods of doing this, but if using popcorn as I recommended you want to do a forced hydration.  If using another grain, look into specific hydration instructions for that grain or also check out the [No Soak No Simmer](https://www.youtube.com/watch?v=MuRUYt25j-A) method.
 
-
-
 For forced hydration of popcorn, you want to 
 
 1. Add the 4lbs of raw popcorn into your pressure cooker.
-
 2. Cover that with 3 inches of water. 
-
 3. Pressure cook @ 15 PSI for 30 mins
 
 [Philly Golden Teacher has a great video](https://www.youtube.com/watch?v=3KrE7rmNoY4) to walk you through this process.  Note that he uses corn syrup & vermiculite for drippy corn which speeds up colonization but you can skip those additions if you desire and just hydrate the corn.
 
-### Drying the grain
+### Drying the grain & Loading Jars
 
+Once the grain is hydrated and the pressure has naturally released from the pressure cooker, you want to dry the grain.  You want the outside of the grain to be relatively dry, but the inside still moist if you were to crack open a kernel.  To do this:
 
+1. Open the pressure cooker once pressure has naturally released
+2. Pour contents into a strainer
+3. Let sit for 30 mins - 2+ hours depending on your home's humidity.
 
-### Sterilizing the grian
+Note:  During this process, it does not have to be a sterile environment as you will sterilize it in the next step.  However, you do not want to have it in a dirty environment where debris will fall on the grain.  I will turn off fans and AC, and try to stay out of the room when it dries.  It is overkill but to me the cleaner you try to be during the whole process the better.
+
+### Sterilizing the grain
+
+Now that the grain is properly hydrated and dried, it is time to load the jars and sterilize them.
+
+1. Load approx 8 mason jars 3/4 of the way full with the grain.
+2. Put on the lid to the jar.  If using unmodified lids [place them upside-down](https://youtu.be/UgCW-ZPkxIU?si=oNQc7IpnapwzmJS7&t=245) to allow air exchange and cover with tinfoil.\
+   <img src="/assets/images/unmodified-lid-tek.png" alt="great value popcorn" width="200"/> 
 
 ## What's Next?
 
