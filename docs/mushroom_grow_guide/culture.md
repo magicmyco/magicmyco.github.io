@@ -24,20 +24,24 @@ There are tons to choose from and generally, you can not go wrong.  Some may be 
 Cultures come in many forms.  There are 2 categories: Live Cultures, and Spores.  Both have pros & cons.  However, for starting we recommend you find a LIVE culture to start with.
 Nowadays you can obtain Liquid Culture for sale online.  We recommend starting with a liquid culture of a common beginner strain like B+ for the highest rates of success and the lowest risk of contamination.
 
-\| | Live ⭐       | Spore         |
+| | Live ⭐       | Spore         |
 | | ------------- | ------------- |
 | Common Forms | Liquid Culture or Agar | Spore Syringe, Swab, Print |
 | Benefits & Cons | Low Risk of Contam, Fast Growth | Higher Risk of Contam, Slow Growth |
 
+#### Liquid Culture Syringe
+
 <img src="/assets/images/liquid-culture-syringes.jpg" alt="liquid culture syringe" width="200"/>
 
-<img src="/assets/images/spore-print-foil.jpg" alt="spore print" width="200"/>
-
-<img src="/assets/images/spore-syringe.jpg" alt="spore syringe" width="200"/>
-
+#### Agar Plate
 <img src="/assets/images/enigma-agar-plate.jpg" alt="agar plate" width="200"/>
 
-![]()
+#### Spore Print
+<img src="/assets/images/spore-print-foil.jpg" alt="spore print" width="200"/>
+
+#### Spore Syringe
+
+<img src="/assets/images/spore-syringe.jpg" alt="spore syringe" width="200"/>
 
 ## What's Next?
 
