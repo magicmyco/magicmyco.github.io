@@ -41,6 +41,10 @@ minima:
 header_pages:
   - mushroom_grow_guide/intro.md
 
+collections:
+  mushroom_grow_guide:
+    output: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

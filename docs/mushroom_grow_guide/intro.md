@@ -2,7 +2,7 @@
 layout: post
 title:  "Grow Mushroms Easy"
 filename: 'intro'
-categories: mushroom_grow_guide
+categories: mushroom-grow-guide
 ---
 
 Want to learn how to grow mushrooms indoors?  You have come to the right place.
