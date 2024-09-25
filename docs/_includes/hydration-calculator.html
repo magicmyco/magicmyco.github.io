@@ -8,7 +8,7 @@
     </select>
 
     <label for="weight">Weight of dry brick (g):</label>
-    <input type="text" id="weight" name="weight" placeholder="650" required>
+    <input type="number" id="weight" name="weight" placeholder="650" required>
 
     <button type="button" onclick="calculate()">Calculate</button>
   </form>
@@ -85,7 +85,7 @@
   color: #f9f9f9; /* Light color for text */
 }
 
-.hydration-calculator-container input[type="text"] {
+.hydration-calculator-container input[type="number"] {
   padding: 10px;
   border: 1px solid #555; /* Darker border for dark themes */
   border-radius: 4px;
@@ -128,7 +128,7 @@
 }
 
 /* Maintain existing form styles */
-.hydration-calculator-container input[type="text"] {
+.hydration-calculator-container input[type="number"] {
   padding: 10px;
   border: 1px solid #555;
   border-radius: 4px;
