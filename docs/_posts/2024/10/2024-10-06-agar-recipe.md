@@ -10,26 +10,28 @@ layout: post
 ---
 Learn how to make agar with this easy 123 recipe.  I reccomend following along with [this instructional video from PhillyGoldenTeacher](https://www.youtube.com/watch?v=7pqJxFpsE84) for your first time making agar.
 
-## Requirements
+<img src="/assets/images/agar/blank-agar-plate.png" alt="Blank agar plate" width="300"/>
 
-| **Ingredients**            | **Tools**                        |
-|--------------------------- |----------------------------------|
-| Agar Agar powder           | Media Bottle (500 ml recommended)|
-| Corn Syrup                 | Condiment Cups or Petri dishes   |
-| Potato Flakes              | Laser Temperature Thermometer    |
-| Water                      | Funnel                           |
-| Food Coloring (optional)   |                                  |
+## Requirements 📝
+
+| **Ingredients**                                                                                    | **Tools**                          |
+|----------------------------------------------------------------------------------------------------|------------------------------------|
+| [Agar Agar Powder](https://www.amazon.com/Agar-Powder-Thailand-Asian-International/dp/B074Q1V7NK)  | [Media Bottle](https://www.amazon.com/Pyrex-Slimline-Media-Bottle-Corning/dp/B00QU9BVH6/) (500 ml recommended)|
+| Corn Syrup                                                                                         | Condiment Cups or Petri dishes   |
+| [Potato Flakes](https://www.amazon.com/Bobs-Red-Mill-Potatoes-16-ounce/dp/B07XF7H4KH/)             | Laser Temperature Thermometer    |
+| Water                                                                                              | Funnel                           |
+| Food Coloring (optional)                                                                           |                                  |
 
 
 
-## Formula
+## Formula 🧫
 
-| **Ratio**             | **For 500 ml Media Bottle**      |
-|-----------------------|----------------------------------|
-| 3g potato flakes      | 12g potato flakes                |
-| 2g agar agar powder   | 8g agar agar powder              |
-| 1g corn syrup         | 4g corn syrup                    |
-| 1/2 cup water         | 2 cups water (about 400 ml)      |
+| **Ratio ⭐️**             | **For 500 ml Media Bottle 🧪**   |
+|--------------------------|----------------------------------|
+| 3g potato flakes         | 12g potato flakes                |
+| 2g agar agar powder      | 8g agar agar powder              |
+| 1g corn syrup            | 4g corn syrup                    |
+| 1/2 cup water            | 2 cups water (about 400 ml)      |
 
 ## Directions
 Measure out the following incredients in a container on a scale.  Order does not matter but I recomend:
